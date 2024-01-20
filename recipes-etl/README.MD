@@ -37,8 +37,9 @@ For the program to work , the json file should comtain the following fields:<br/
 ## How to run programm
 1. Install Python version 3.12.1<br/>
 2. Install Pandas library in windows terminal <br>`$ pip install pandas`<br/>
-3. Original json file for further analysis should be located in the same directory under the name `$ data.json`.<br/>
-4. Run the program in terminal <br> `$ python main.py `.
+3. Original json file for further analysis should be located in the same directory under the name `data.json`.<br/>
+4. Run the program in terminal <br> `$ python main.py `.<br/>
+5. Analised data will be saved in `chilies_recipes.csv`
 
 
 
